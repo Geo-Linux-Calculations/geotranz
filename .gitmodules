@@ -1,0 +1,12 @@
+[submodule "data"]
+	path = data
+	url = https://github.com/Geo-Linux-Calculations/geotranz-data
+[submodule "doc"]
+	path = doc
+	url = https://github.com/Geo-Linux-Calculations/geotranz-doc
+[submodule "SpreadsheetTester"]
+	path = SpreadsheetTester
+	url = https://github.com/Geo-Linux-Calculations/geotranz-SpreadsheetTester
+[submodule "Examples"]
+	path = Examples
+	url = https://github.com/Geo-Linux-Calculations/geotranz-Examples
